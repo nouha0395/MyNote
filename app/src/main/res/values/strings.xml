@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Note</string>
+
+
+    <string name="photo_description">صورة توضيحية</string>
+
+
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="email_hint">أدخل بريدك الإلكتروني</string>
+    <string name="password_hint">أدخل كلمة المرور</string>
+    <string name="login_button">دخول</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="go_to_signup">سجّل الآن</string>
+
+
+    <string name="signup_title">إنشاء حساب</string>
+    <string name="name_hint">أدخل اسمك الكامل</string>
+    <string name="confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="signup_button">تسجيل</string>
+    <string name="have_account">لديك حساب بالفعل؟</string>
+    <string name="go_to_login">تسجيل الدخول</string>
+
+    <string name="note_title_hint">أدخل عنوان الملاحظة</string>
+
+    <string name="note_content_hint">أدخل نص الملاحظة هنا</string>
+
+
+    <string name="add_attachment">أضف مرفقًا</string>
+
+
+    <string name="image_desc">إرفاق صورة</string>
+    <string name="audio_desc">تسجيل صوتي</string>
+    <string name="alarm_desc">ضبط تنبيه</string>
+
+
+    <string name="add_more_options">خيارات إضافية</string>
+
+
+    <string name="list_desc">إضافة قائمة</string>
+    <string name="signature_desc">إضافة توقيع</string>
+
+
+</resources>
